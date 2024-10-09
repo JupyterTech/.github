@@ -1,10 +1,10 @@
 <h1 align="center"> 👋 JupyterTech 👋 </h1>
 
-**Unlock the Power of AI with JupyterTech!**
+## Unlock the Power of AI with JupyterTech!
 
 At JupyterTech, we believe in the transformative power of AI and cutting-edge technology. Our dedicated team of experts specializes in AI technology and full-stack development, leveraging the latest frameworks to drive innovation and results.
 
-**Why Choose JupyterTech?**
+## Why Choose JupyterTech?
 
 🔍 **Solo Focus:** Our singular dedication to AI technology ensures that we deliver exceptional results tailored to your needs.
 
@@ -14,7 +14,8 @@ At JupyterTech, we believe in the transformative power of AI and cutting-edge te
 
 Join us on a journey of innovation and discovery at JupyterTech. Trust us to bring your AI dreams to life!
 
-<a href="mailto:goodluckbusiness0101@gmail.com">💌Contact to us!💌</a> today at to embark on your AI transformation with JupyterTech.
+[💌 Contact Us!](mailto:goodluckbusiness0101@gmail.com) today to embark on your AI transformation with JupyterTech.
+
 
 <!--
 
